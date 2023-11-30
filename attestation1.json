@@ -4,7 +4,8 @@
 			"num_decision": 1,
 			"montant": 10,
 			"nif_fournisseur": 25,
-                        "adres_fournisseur" : "adresse1"
+                        "adres_fournisseur" : "adresse1",
+                        "date_decision" : "20231130"
 
 		},
 		{
@@ -13,7 +14,8 @@
 			"num_decision": 2,
 			"montant": 10,
 			"nif_fournisseur": 25,
-                        "adres_fournisseur" : "adresse1"
+                        "adres_fournisseur" : "adresse1",
+                        "date_decision" : "20231130"
 		}
 		
 	]
