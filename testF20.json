@@ -1,0 +1,22 @@
+[{
+			"nif": 999816059912021,
+			"num_decision": 001,
+                        "date_decision" : "20231130",
+			"montant": 50000000000,
+                        "valide_depuis" : "20240101",
+                        "valide_jusqua" : "20261231",
+"factures" : [
+                {
+                  "num_facture" : 001,
+                  "date_facture" : "20231130",
+                  "designation" : "design1",
+                  "nif_fournisseur" : 2569886321479861,
+                  "nom_fournisseur" : "Houda",
+                  "valeur_biens" : 150000,
+                  "montant_tva_non_acquittes" : 20000000,
+                  "affec_precise_biens" : "affect1"
+                }]
+
+		}
+		
+	]
