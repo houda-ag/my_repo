@@ -15,6 +15,16 @@
                   "valeur_biens" : 150000,
                   "montant_tva_non_acquittes" : 20000000,
                   "affec_precise_biens" : "affect1"
+                },
+{
+                  "num_facture" : 002,
+                  "date_facture" : "20231130",
+                  "designation" : "design2",
+                  "nif_fournisseur" : 2569886321479861,
+                  "nom_fournisseur" : "otman",
+                  "valeur_biens" : 150000,
+                  "montant_tva_non_acquittes" : 20000000,
+                  "affec_precise_biens" : "affect2"
                 }]
 
 		}
